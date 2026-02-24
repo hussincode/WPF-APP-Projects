@@ -6,13 +6,12 @@
       xmlns:local="clr-namespace:Expense"
       mc:Ignorable="d" 
       d:DesignHeight="450" d:DesignWidth="800"
-      Title="ExpenseReportPage">
+      Title="ExpenseReportPage" Loaded="Window_loaded">
 
     <Grid>
         <Grid.Background>
-            <ImageBrush ImageSource="E:\oop study\Expense\Images\astronaut-black-hole-space-8k-wallpaper-uhdpaper.com-537@5@f.jpg"/>
+            <ImageBrush ImageSource="/Images/astronaut-black-hole-space-8k-wallpaper-uhdpaper.com-537@5@f.jpg"/>
         </Grid.Background>
-
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="239"/>
             <ColumnDefinition/>
@@ -52,7 +51,7 @@
                        FontWeight="Bold"
                        Foreground="White"
                        Content="Name:"/>
-                
+
                 <Label Margin="0,0,0,5 "
                        FontWeight="Bold"/>
             </StackPanel>
@@ -76,24 +75,120 @@
                   Grid.Row="2"
                   VerticalAlignment="Top"
                   HorizontalAlignment="Left">
-                <DataGrid AutoGenerateColumns="False"
-                          RowHeaderWidth="0">
-                    <DataGrid.ColumnHeaderStyle>
-                        <Style TargetType="{x:Type DataGridColumnHeader}">
-                            <Setter Property="Height" Value="35"/>
-                            <Setter Property="Padding" Value="5"/>
-                            <Setter Property="Background" Value="BlueViolet"/>
-                            <Setter Property="Foreground" Value="White"/>
-                        </Style>
-                    </DataGrid.ColumnHeaderStyle>
-                    <DataGrid.Columns>
-                        <DataGridTextColumn Header="Expensetype"/>
-                        <DataGridTextColumn Header="Amount:"/>
-                    </DataGrid.Columns>
-                </DataGrid>
-                          
+                <DataGrid x:Name="dataGrid" AutoGenerateColumns="True" Margin="0,0,-535,-272" />
             </Grid>
-                        
+
+
+        </Grid>
+        <Grid Grid.Row="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="34*"/>
+                <RowDefinition Height="50*"/>
+                <RowDefinition Height="44*"/>
+                <RowDefinition Height="55*"/>
+                <RowDefinition Height="58*"/>
+                <RowDefinition Height="46*"/>
+                <RowDefinition Height="57*"/>
+                <RowDefinition Height="34*"/>
+                <RowDefinition Height="36*"/>
+            </Grid.RowDefinitions>
+            <StackPanel Orientation="Horizontal" Margin="0,0,0,50" Grid.RowSpan="2">
+                <Label Content="Name"
+           Foreground="White"
+           FontWeight="Bold" Width="73"/>
+
+                <TextBox Name="nameTextBlock"
+             Foreground="Black" 
+             Width="151"
+             Background="White"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Margin="0,5,0,11" Grid.Row="1">
+                <Label Content="Amount"
+           Foreground="White"
+           FontWeight="Bold" Width="73"/>
+
+                <TextBox Name="AmountTextBlock"
+             Foreground="Black" 
+             Width="151"
+             Background="White"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Margin="0,5,0,5" Grid.Row="2">
+                <Label Content="ExpenseDate"
+           Foreground="White"
+           FontWeight="Bold" Width="73"/>
+
+                <TextBox Name="ExpenseDateTextBlock"
+             Foreground="Black" 
+             Width="151"
+             Background="White"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Margin="0,5,0,5" Grid.Row="3">
+                <Label Content="Department"
+           Foreground="White"
+           FontWeight="Bold" Width="73"/>
+
+                <TextBox Name="DepartmentTextBlock"
+             Foreground="Black" 
+             Width="151"
+             Background="White"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Margin="0,5,0,5" Grid.Row="4">
+                <Label Content="ExpenseTitle"
+           Foreground="White"
+           FontWeight="Bold" Width="73"/>
+
+                <TextBox Name="ExpenseTitleTextBlock"
+             Foreground="Black" 
+             Width="151"
+             Background="White"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Margin="0,5,0,5" Grid.Row="5">
+                <Label Content="Notes"
+           Foreground="White"
+           FontWeight="Bold" Width="73"/>
+
+                <TextBox Name="NotesTextBlock"
+             Foreground="Black" 
+             Width="151"
+             Background="White"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Margin="0,5,0,5" Grid.Row="6">
+                <Label Content="CreatedAt"
+           Foreground="White"
+           FontWeight="Bold" Width="73"/>
+
+                <TextBox Name="CreatedAtTextBlock"
+             Foreground="Black" 
+             Width="151"
+             Background="White"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" RenderTransformOrigin="0.494,0.519" Margin="0,5,0,5" Grid.Row="7" >
+                <Label Content="IsActive"
+                       Foreground="White" Width="56"/>
+                <RadioButton Content="True" GroupName="IsActive"
+                             Foreground="White" Height="29" Width="50"/>
+                <RadioButton Content="False" GroupName="IsActive"
+                             Foreground="White" Height="28"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0,5,0,0" Grid.Row="8">
+                <Button Content="Add"
+                    Grid.Row="8" Click="Button_Click_1" Width="49"/>
+                <Button Content="update"
+    Grid.Row="8" Click="Update_Click" Width="51"/>
+                <Button Content="Dele"
+Grid.Row="8" Click="Delet_Click" Width="51"/>
+            </StackPanel>
+
+
+
+
 
         </Grid>
 
