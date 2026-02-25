@@ -64,7 +64,7 @@ namespace Expense
             using (var context = new ExpenseEntities())
             {
                 var report = new expense_report
-                {
+                {   
                     Name = nameTextBlock.Text,
                     Amount = decimal.Parse(AmountTextBlock.Text),
                     ExpenseDate = DateTime.Now,
