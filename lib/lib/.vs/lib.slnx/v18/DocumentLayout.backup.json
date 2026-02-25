@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\oop study\\lib\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AAE261A-306E-464F-BD74-F31E14D2CF53}|lib\\lib.csproj|e:\\oop study\\lib\\lib\\home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AAE261A-306E-464F-BD74-F31E14D2CF53}|lib\\lib.csproj|solutionrelative:lib\\home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AAE261A-306E-464F-BD74-F31E14D2CF53}|lib\\lib.csproj|e:\\oop study\\lib\\lib\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2AAE261A-306E-464F-BD74-F31E14D2CF53}|lib\\lib.csproj|solutionrelative:lib\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AAE261A-306E-464F-BD74-F31E14D2CF53}|lib\\lib.csproj|e:\\oop study\\lib\\lib\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2AAE261A-306E-464F-BD74-F31E14D2CF53}|lib\\lib.csproj|solutionrelative:lib\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AAE261A-306E-464F-BD74-F31E14D2CF53}|lib\\lib.csproj|e:\\oop study\\lib\\lib\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2AAE261A-306E-464F-BD74-F31E14D2CF53}|lib\\lib.csproj|solutionrelative:lib\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AAE261A-306E-464F-BD74-F31E14D2CF53}|lib\\lib.csproj|e:\\oop study\\lib\\lib\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AAE261A-306E-464F-BD74-F31E14D2CF53}|lib\\lib.csproj|solutionrelative:lib\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "login.xaml.cs",
+              "DocumentMoniker": "E:\\oop study\\lib\\lib\\login.xaml.cs",
+              "RelativeDocumentMoniker": "lib\\login.xaml.cs",
+              "ToolTip": "E:\\oop study\\lib\\lib\\login.xaml.cs",
+              "RelativeToolTip": "lib\\login.xaml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA5wDEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T19:25:52.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "login.xaml",
+              "DocumentMoniker": "E:\\oop study\\lib\\lib\\login.xaml",
+              "RelativeDocumentMoniker": "lib\\login.xaml",
+              "ToolTip": "E:\\oop study\\lib\\lib\\login.xaml",
+              "RelativeToolTip": "lib\\login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-25T19:25:43.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.xaml.cs",
+              "DocumentMoniker": "E:\\oop study\\lib\\lib\\Home.xaml.cs",
+              "RelativeDocumentMoniker": "lib\\Home.xaml.cs",
+              "ToolTip": "E:\\oop study\\lib\\lib\\Home.xaml.cs*",
+              "RelativeToolTip": "lib\\Home.xaml.cs*",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAqwGMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T19:21:50.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\oop study\\lib\\lib\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "lib\\MainWindow.xaml",
+              "ToolTip": "E:\\oop study\\lib\\lib\\MainWindow.xaml",
+              "RelativeToolTip": "lib\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-25T19:33:15.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.xaml",
+              "DocumentMoniker": "E:\\oop study\\lib\\lib\\Home.xaml",
+              "RelativeDocumentMoniker": "lib\\Home.xaml",
+              "ToolTip": "E:\\oop study\\lib\\lib\\Home.xaml*",
+              "RelativeToolTip": "lib\\Home.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-25T18:36:40.608Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

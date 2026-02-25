@@ -1,0 +1,53 @@
+﻿<Page x:Class="lib.Home"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:lib"
+      mc:Ignorable="d" d:DesignWidth="800"
+      Title="Home" Height="430" Loaded="Window">
+
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Filter/Search Panel -->
+        <StackPanel Orientation="Horizontal" Margin="0 0 0 10" HorizontalAlignment="Left">
+            <TextBlock Text="Filter by:" VerticalAlignment="Center" FontWeight="Bold" FontSize="14"/>
+            <ComboBox x:Name="FilterComboBox" Width="140" Margin="5 0" FontSize="14" Padding="5">
+                <ComboBoxItem Content="Author"/>
+                <ComboBoxItem Content="Category"/>
+                <ComboBoxItem Content="Title"/>
+            </ComboBox>
+
+            <TextBox x:Name="FilterTextBox" Width="200" Margin="5 0" FontSize="14" Padding="5"
+                     />
+            <Button Content="Filter" Width="80" Margin="5 0" Padding="5"
+                    Background="#0078D7" Foreground="White" FontWeight="Bold" Click="Button_Click_2"/>
+        </StackPanel>
+
+        <!-- DataGrid -->
+        <DataGrid x:Name="UsersDataGrid" Grid.Row="1"
+                  VerticalAlignment="Stretch">
+
+            
+        </DataGrid>
+
+        <!-- Edit Panel -->
+        <StackPanel Orientation="Horizontal" Grid.Row="2" Margin="0 10 0 0" HorizontalAlignment="Left">
+            <TextBlock Text="ID:" VerticalAlignment="Center" FontWeight="Bold" FontSize="14"/>
+            <TextBox x:Name="IdTextBox" Width="50" Margin="5 0" Padding="5"/>
+
+            <TextBlock Text="Full Name:" VerticalAlignment="Center" Margin="15 0 0 0" FontWeight="Bold" FontSize="14"/>
+            <TextBox x:Name="NameTextBox" Width="200" Margin="5 0" Padding="5"/>
+
+            <Button Content="Update" Width="90" Margin="15 0 0 0" Padding="5"
+                    Background="#28a745" Foreground="White" FontWeight="Bold" Click="Button_Click"/>
+            <Button Content="Delete" Width="90" Margin="5 0 0 0" Padding="5"
+                    Background="#dc3545" Foreground="White" FontWeight="Bold" Click="Button_Click_1"/>
+        </StackPanel>
+    </Grid>
+</Page>

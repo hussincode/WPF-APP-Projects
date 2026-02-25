@@ -1,0 +1,73 @@
+﻿<Page x:Class="lib.login"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:lib"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="login">
+
+    <Grid Background="#F5F5F5">
+        <Border Background="White"
+                Width="350"
+                Padding="25"
+                CornerRadius="10"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Center">
+
+            <StackPanel>
+
+                <!-- Title -->
+                <TextBlock Text="Login"
+                           FontSize="26"
+                           FontWeight="Bold"
+                           Margin="0 0 0 20"
+                           HorizontalAlignment="Center"/>
+
+                <!-- Email -->
+                <TextBlock Text="Email"/>
+                <TextBox x:Name="EmailTextBox"
+                         Height="35"
+                         Margin="0 5 0 15"
+                         Padding="8"/>
+
+                <!-- Password -->
+                <TextBlock Text="Password"/>
+                <PasswordBox x:Name="PasswordBox"
+                             Height="35"
+                             Margin="0 5 0 10"
+                             Padding="8"/>
+                <TextBox x:Name="PasswordVisibilityBox"
+             Height="35"
+             Margin="0 5 0 10"
+             Padding="8"
+                         Visibility="Collapsed"/>
+
+                <!-- Show Password -->
+                <CheckBox Content="Show Password"
+                          Margin="0 0 0 15"
+                          Checked="ShowPassword_Checked"
+                          Unchecked="ShowPassword_Unchecked"/>
+
+                <!-- Login Button -->
+                <Button Content="Login"
+                        Height="40"
+                        Background="#0078D7"
+                        Foreground="White"
+                        FontWeight="Bold"
+                        Click="LoginButton_Click"/>
+
+                <!-- Go to SignUp -->
+                <TextBlock HorizontalAlignment="Center"
+                           Margin="0 15 0 0">
+                    <Run Text="Don't have an account? "/>
+                    <Hyperlink Click="GoToSignUp_Click">
+                        Sign Up
+                    </Hyperlink>
+                </TextBlock>
+
+            </StackPanel>
+        </Border>
+    </Grid>
+</Page>
