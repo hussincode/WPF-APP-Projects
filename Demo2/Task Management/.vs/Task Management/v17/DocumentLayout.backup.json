@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hussien.hesham.ELSEWEDY-SCHOOL\\source\\repos\\Task Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52610244-9942-4352-ADBC-D7646B9E363E}|Task Management\\Task Management.csproj|c:\\users\\hussien.hesham.elsewedy-school\\source\\repos\\task management\\task management\\employeepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52610244-9942-4352-ADBC-D7646B9E363E}|Task Management\\Task Management.csproj|solutionrelative:task management\\employeepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52610244-9942-4352-ADBC-D7646B9E363E}|Task Management\\Task Management.csproj|c:\\users\\hussien.hesham.elsewedy-school\\source\\repos\\task management\\task management\\employeepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{52610244-9942-4352-ADBC-D7646B9E363E}|Task Management\\Task Management.csproj|solutionrelative:task management\\employeepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52610244-9942-4352-ADBC-D7646B9E363E}|Task Management\\Task Management.csproj|c:\\users\\hussien.hesham.elsewedy-school\\source\\repos\\task management\\task management\\managerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{52610244-9942-4352-ADBC-D7646B9E363E}|Task Management\\Task Management.csproj|solutionrelative:task management\\managerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52610244-9942-4352-ADBC-D7646B9E363E}|Task Management\\Task Management.csproj|c:\\users\\hussien.hesham.elsewedy-school\\source\\repos\\task management\\task management\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{52610244-9942-4352-ADBC-D7646B9E363E}|Task Management\\Task Management.csproj|solutionrelative:task management\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52610244-9942-4352-ADBC-D7646B9E363E}|Task Management\\Task Management.csproj|c:\\users\\hussien.hesham.elsewedy-school\\source\\repos\\task management\\task management\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{52610244-9942-4352-ADBC-D7646B9E363E}|Task Management\\Task Management.csproj|solutionrelative:task management\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52610244-9942-4352-ADBC-D7646B9E363E}|Task Management\\Task Management.csproj|c:\\users\\hussien.hesham.elsewedy-school\\source\\repos\\task management\\task management\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52610244-9942-4352-ADBC-D7646B9E363E}|Task Management\\Task Management.csproj|solutionrelative:task management\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52610244-9942-4352-ADBC-D7646B9E363E}|Task Management\\Task Management.csproj|c:\\users\\hussien.hesham.elsewedy-school\\source\\repos\\task management\\task management\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{52610244-9942-4352-ADBC-D7646B9E363E}|Task Management\\Task Management.csproj|solutionrelative:task management\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52610244-9942-4352-ADBC-D7646B9E363E}|Task Management\\Task Management.csproj|c:\\users\\hussien.hesham.elsewedy-school\\source\\repos\\task management\\task management\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52610244-9942-4352-ADBC-D7646B9E363E}|Task Management\\Task Management.csproj|solutionrelative:task management\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52610244-9942-4352-ADBC-D7646B9E363E}|Task Management\\Task Management.csproj|c:\\users\\hussien.hesham.elsewedy-school\\source\\repos\\task management\\task management\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52610244-9942-4352-ADBC-D7646B9E363E}|Task Management\\Task Management.csproj|solutionrelative:task management\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employeepage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\hussien.hesham.ELSEWEDY-SCHOOL\\source\\repos\\Task Management\\Task Management\\Employeepage.xaml.cs",
+              "RelativeDocumentMoniker": "Task Management\\Employeepage.xaml.cs",
+              "ToolTip": "C:\\Users\\hussien.hesham.ELSEWEDY-SCHOOL\\source\\repos\\Task Management\\Task Management\\Employeepage.xaml.cs",
+              "RelativeToolTip": "Task Management\\Employeepage.xaml.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAowE0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T10:57:55.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employeepage.xaml",
+              "DocumentMoniker": "C:\\Users\\hussien.hesham.ELSEWEDY-SCHOOL\\source\\repos\\Task Management\\Task Management\\Employeepage.xaml",
+              "RelativeDocumentMoniker": "Task Management\\Employeepage.xaml",
+              "ToolTip": "C:\\Users\\hussien.hesham.ELSEWEDY-SCHOOL\\source\\repos\\Task Management\\Task Management\\Employeepage.xaml",
+              "RelativeToolTip": "Task Management\\Employeepage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-26T08:50:53.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Managerpage.xaml",
+              "DocumentMoniker": "C:\\Users\\hussien.hesham.ELSEWEDY-SCHOOL\\source\\repos\\Task Management\\Task Management\\Managerpage.xaml",
+              "RelativeDocumentMoniker": "Task Management\\Managerpage.xaml",
+              "ToolTip": "C:\\Users\\hussien.hesham.ELSEWEDY-SCHOOL\\source\\repos\\Task Management\\Task Management\\Managerpage.xaml",
+              "RelativeToolTip": "Task Management\\Managerpage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-26T08:50:19.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\hussien.hesham.ELSEWEDY-SCHOOL\\source\\repos\\Task Management\\Task Management\\Model1.edmx",
+              "RelativeDocumentMoniker": "Task Management\\Model1.edmx",
+              "ToolTip": "C:\\Users\\hussien.hesham.ELSEWEDY-SCHOOL\\source\\repos\\Task Management\\Task Management\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Task Management\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2026-02-26T07:59:05.341Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\hussien.hesham.ELSEWEDY-SCHOOL\\source\\repos\\Task Management\\Task Management\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Task Management\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\hussien.hesham.ELSEWEDY-SCHOOL\\source\\repos\\Task Management\\Task Management\\MainWindow.xaml",
+              "RelativeToolTip": "Task Management\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-26T07:46:16.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LogInPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\hussien.hesham.ELSEWEDY-SCHOOL\\source\\repos\\Task Management\\Task Management\\LogInPage.xaml.cs",
+              "RelativeDocumentMoniker": "Task Management\\LogInPage.xaml.cs",
+              "ToolTip": "C:\\Users\\hussien.hesham.ELSEWEDY-SCHOOL\\source\\repos\\Task Management\\Task Management\\LogInPage.xaml.cs",
+              "RelativeToolTip": "Task Management\\LogInPage.xaml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T07:57:56.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LogInPage.xaml",
+              "DocumentMoniker": "C:\\Users\\hussien.hesham.ELSEWEDY-SCHOOL\\source\\repos\\Task Management\\Task Management\\LogInPage.xaml",
+              "RelativeDocumentMoniker": "Task Management\\LogInPage.xaml",
+              "ToolTip": "C:\\Users\\hussien.hesham.ELSEWEDY-SCHOOL\\source\\repos\\Task Management\\Task Management\\LogInPage.xaml",
+              "RelativeToolTip": "Task Management\\LogInPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-26T07:49:16.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Model1.Context.cs",
+              "DocumentMoniker": "C:\\Users\\hussien.hesham.ELSEWEDY-SCHOOL\\source\\repos\\Task Management\\Task Management\\Model1.Context.cs",
+              "RelativeDocumentMoniker": "Task Management\\Model1.Context.cs",
+              "ToolTip": "C:\\Users\\hussien.hesham.ELSEWEDY-SCHOOL\\source\\repos\\Task Management\\Task Management\\Model1.Context.cs",
+              "RelativeToolTip": "Task Management\\Model1.Context.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAEwBsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T07:59:34.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\hussien.hesham.ELSEWEDY-SCHOOL\\source\\repos\\Task Management\\Task Management\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Task Management\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\hussien.hesham.ELSEWEDY-SCHOOL\\source\\repos\\Task Management\\Task Management\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Task Management\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T07:46:15.536Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

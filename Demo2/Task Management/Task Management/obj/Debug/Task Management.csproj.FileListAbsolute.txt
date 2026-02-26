@@ -1,0 +1,28 @@
+C:\Users\hussien.hesham.ELSEWEDY-SCHOOL\source\repos\Task Management\Task Management\obj\Debug\Task Management.csproj.AssemblyReference.cache
+C:\Users\hussien.hesham.ELSEWEDY-SCHOOL\source\repos\Task Management\Task Management\obj\Debug\LogInPage.g.cs
+C:\Users\hussien.hesham.ELSEWEDY-SCHOOL\source\repos\Task Management\Task Management\obj\Debug\MainWindow.g.cs
+C:\Users\hussien.hesham.ELSEWEDY-SCHOOL\source\repos\Task Management\Task Management\obj\Debug\App.g.cs
+C:\Users\hussien.hesham.ELSEWEDY-SCHOOL\source\repos\Task Management\Task Management\obj\Debug\Task Management_Content.g.cs
+C:\Users\hussien.hesham.ELSEWEDY-SCHOOL\source\repos\Task Management\Task Management\obj\Debug\Task Management_MarkupCompile.cache
+C:\Users\hussien.hesham.ELSEWEDY-SCHOOL\source\repos\Task Management\Task Management\obj\Debug\Task Management_MarkupCompile.lref
+C:\Users\hussien.hesham.ELSEWEDY-SCHOOL\source\repos\Task Management\Task Management\bin\Debug\Task Management.exe.config
+C:\Users\hussien.hesham.ELSEWEDY-SCHOOL\source\repos\Task Management\Task Management\bin\Debug\Task Management.exe
+C:\Users\hussien.hesham.ELSEWEDY-SCHOOL\source\repos\Task Management\Task Management\bin\Debug\Task Management.pdb
+C:\Users\hussien.hesham.ELSEWEDY-SCHOOL\source\repos\Task Management\Task Management\bin\Debug\EntityFramework.dll
+C:\Users\hussien.hesham.ELSEWEDY-SCHOOL\source\repos\Task Management\Task Management\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hussien.hesham.ELSEWEDY-SCHOOL\source\repos\Task Management\Task Management\bin\Debug\EntityFramework.xml
+C:\Users\hussien.hesham.ELSEWEDY-SCHOOL\source\repos\Task Management\Task Management\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hussien.hesham.ELSEWEDY-SCHOOL\source\repos\Task Management\Task Management\obj\Debug\LogInPage.baml
+C:\Users\hussien.hesham.ELSEWEDY-SCHOOL\source\repos\Task Management\Task Management\obj\Debug\MainWindow.baml
+C:\Users\hussien.hesham.ELSEWEDY-SCHOOL\source\repos\Task Management\Task Management\obj\Debug\Task Management.g.resources
+C:\Users\hussien.hesham.ELSEWEDY-SCHOOL\source\repos\Task Management\Task Management\obj\Debug\Task_Management.Properties.Resources.resources
+C:\Users\hussien.hesham.ELSEWEDY-SCHOOL\source\repos\Task Management\Task Management\obj\Debug\Task Management.csproj.GenerateResource.cache
+C:\Users\hussien.hesham.ELSEWEDY-SCHOOL\source\repos\Task Management\Task Management\obj\Debug\Task Management.csproj.CoreCompileInputs.cache
+C:\Users\hussien.hesham.ELSEWEDY-SCHOOL\source\repos\Task Management\Task Management\obj\Debug\Task Man.5CF54EC1.Up2Date
+C:\Users\hussien.hesham.ELSEWEDY-SCHOOL\source\repos\Task Management\Task Management\obj\Debug\Task Management.exe
+C:\Users\hussien.hesham.ELSEWEDY-SCHOOL\source\repos\Task Management\Task Management\obj\Debug\Task Management.pdb
+C:\Users\hussien.hesham.ELSEWEDY-SCHOOL\source\repos\Task Management\Task Management\obj\Debug\Task Management.exe.config
+C:\Users\hussien.hesham.ELSEWEDY-SCHOOL\source\repos\Task Management\Task Management\obj\Debug\Employeepage.g.cs
+C:\Users\hussien.hesham.ELSEWEDY-SCHOOL\source\repos\Task Management\Task Management\obj\Debug\Managerpage.g.cs
+C:\Users\hussien.hesham.ELSEWEDY-SCHOOL\source\repos\Task Management\Task Management\obj\Debug\Employeepage.baml
+C:\Users\hussien.hesham.ELSEWEDY-SCHOOL\source\repos\Task Management\Task Management\obj\Debug\Managerpage.baml
