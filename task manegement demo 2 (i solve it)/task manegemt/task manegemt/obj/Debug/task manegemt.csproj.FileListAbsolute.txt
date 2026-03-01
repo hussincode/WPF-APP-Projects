@@ -1,0 +1,28 @@
+D:\WPF-APP-Projects\task manegement demo 2 (i solve it)\task manegemt\task manegemt\obj\Debug\task manegemt.csproj.AssemblyReference.cache
+D:\WPF-APP-Projects\task manegement demo 2 (i solve it)\task manegemt\task manegemt\obj\Debug\Log_In_Page.g.cs
+D:\WPF-APP-Projects\task manegement demo 2 (i solve it)\task manegemt\task manegemt\obj\Debug\MainWindow.g.cs
+D:\WPF-APP-Projects\task manegement demo 2 (i solve it)\task manegemt\task manegemt\obj\Debug\App.g.cs
+D:\WPF-APP-Projects\task manegement demo 2 (i solve it)\task manegemt\task manegemt\obj\Debug\task manegemt_Content.g.cs
+D:\WPF-APP-Projects\task manegement demo 2 (i solve it)\task manegemt\task manegemt\obj\Debug\task manegemt_MarkupCompile.cache
+D:\WPF-APP-Projects\task manegement demo 2 (i solve it)\task manegemt\task manegemt\obj\Debug\task manegemt_MarkupCompile.lref
+D:\WPF-APP-Projects\task manegement demo 2 (i solve it)\task manegemt\task manegemt\bin\Debug\task manegemt.exe.config
+D:\WPF-APP-Projects\task manegement demo 2 (i solve it)\task manegemt\task manegemt\bin\Debug\task manegemt.exe
+D:\WPF-APP-Projects\task manegement demo 2 (i solve it)\task manegemt\task manegemt\bin\Debug\task manegemt.pdb
+D:\WPF-APP-Projects\task manegement demo 2 (i solve it)\task manegemt\task manegemt\bin\Debug\EntityFramework.dll
+D:\WPF-APP-Projects\task manegement demo 2 (i solve it)\task manegemt\task manegemt\bin\Debug\EntityFramework.SqlServer.dll
+D:\WPF-APP-Projects\task manegement demo 2 (i solve it)\task manegemt\task manegemt\bin\Debug\EntityFramework.xml
+D:\WPF-APP-Projects\task manegement demo 2 (i solve it)\task manegemt\task manegemt\bin\Debug\EntityFramework.SqlServer.xml
+D:\WPF-APP-Projects\task manegement demo 2 (i solve it)\task manegemt\task manegemt\obj\Debug\Log_In_Page.baml
+D:\WPF-APP-Projects\task manegement demo 2 (i solve it)\task manegemt\task manegemt\obj\Debug\MainWindow.baml
+D:\WPF-APP-Projects\task manegement demo 2 (i solve it)\task manegemt\task manegemt\obj\Debug\task manegemt.g.resources
+D:\WPF-APP-Projects\task manegement demo 2 (i solve it)\task manegemt\task manegemt\obj\Debug\task_manegemt.Properties.Resources.resources
+D:\WPF-APP-Projects\task manegement demo 2 (i solve it)\task manegemt\task manegemt\obj\Debug\task manegemt.csproj.GenerateResource.cache
+D:\WPF-APP-Projects\task manegement demo 2 (i solve it)\task manegemt\task manegemt\obj\Debug\task manegemt.csproj.CoreCompileInputs.cache
+D:\WPF-APP-Projects\task manegement demo 2 (i solve it)\task manegemt\task manegemt\obj\Debug\task man.7B86BD29.Up2Date
+D:\WPF-APP-Projects\task manegement demo 2 (i solve it)\task manegemt\task manegemt\obj\Debug\task manegemt.exe
+D:\WPF-APP-Projects\task manegement demo 2 (i solve it)\task manegemt\task manegemt\obj\Debug\task manegemt.pdb
+D:\WPF-APP-Projects\task manegement demo 2 (i solve it)\task manegemt\task manegemt\obj\Debug\task manegemt.exe.config
+D:\WPF-APP-Projects\task manegement demo 2 (i solve it)\task manegemt\task manegemt\obj\Debug\User_Management_Page.g.cs
+D:\WPF-APP-Projects\task manegement demo 2 (i solve it)\task manegemt\task manegemt\obj\Debug\View_Tasks_Page .g.cs
+D:\WPF-APP-Projects\task manegement demo 2 (i solve it)\task manegemt\task manegemt\obj\Debug\User_Management_Page.baml
+D:\WPF-APP-Projects\task manegement demo 2 (i solve it)\task manegemt\task manegemt\obj\Debug\View_Tasks_Page .baml

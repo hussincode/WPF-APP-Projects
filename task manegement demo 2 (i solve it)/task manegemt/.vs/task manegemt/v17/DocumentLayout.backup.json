@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WPF-APP-Projects\\task manegement demo 2 (i solve it)\\task manegemt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A213297-8073-4D1A-8C31-7145DAB46523}|task manegemt\\task manegemt.csproj|d:\\wpf-app-projects\\task manegement demo 2 (i solve it)\\task manegemt\\task manegemt\\user_management_page.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A213297-8073-4D1A-8C31-7145DAB46523}|task manegemt\\task manegemt.csproj|solutionrelative:task manegemt\\user_management_page.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A213297-8073-4D1A-8C31-7145DAB46523}|task manegemt\\task manegemt.csproj|D:\\WPF-APP-Projects\\task manegement demo 2 (i solve it)\\task manegemt\\task manegemt\\log_in_page.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A213297-8073-4D1A-8C31-7145DAB46523}|task manegemt\\task manegemt.csproj|solutionrelative:task manegemt\\log_in_page.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A213297-8073-4D1A-8C31-7145DAB46523}|task manegemt\\task manegemt.csproj|D:\\WPF-APP-Projects\\task manegement demo 2 (i solve it)\\task manegemt\\task manegemt\\user_management_page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7A213297-8073-4D1A-8C31-7145DAB46523}|task manegemt\\task manegemt.csproj|solutionrelative:task manegemt\\user_management_page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A213297-8073-4D1A-8C31-7145DAB46523}|task manegemt\\task manegemt.csproj|D:\\WPF-APP-Projects\\task manegement demo 2 (i solve it)\\task manegemt\\task manegemt\\view_tasks_page .xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7A213297-8073-4D1A-8C31-7145DAB46523}|task manegemt\\task manegemt.csproj|solutionrelative:task manegemt\\view_tasks_page .xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A213297-8073-4D1A-8C31-7145DAB46523}|task manegemt\\task manegemt.csproj|D:\\WPF-APP-Projects\\task manegement demo 2 (i solve it)\\task manegemt\\task manegemt\\view_tasks_page .xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A213297-8073-4D1A-8C31-7145DAB46523}|task manegemt\\task manegemt.csproj|solutionrelative:task manegemt\\view_tasks_page .xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A213297-8073-4D1A-8C31-7145DAB46523}|task manegemt\\task manegemt.csproj|D:\\WPF-APP-Projects\\task manegement demo 2 (i solve it)\\task manegemt\\task manegemt\\log_in_page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7A213297-8073-4D1A-8C31-7145DAB46523}|task manegemt\\task manegemt.csproj|solutionrelative:task manegemt\\log_in_page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A213297-8073-4D1A-8C31-7145DAB46523}|task manegemt\\task manegemt.csproj|D:\\WPF-APP-Projects\\task manegement demo 2 (i solve it)\\task manegemt\\task manegemt\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7A213297-8073-4D1A-8C31-7145DAB46523}|task manegemt\\task manegemt.csproj|solutionrelative:task manegemt\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hussien.hesham.ELSEWEDY-SCHOOL\\AppData\\Local\\Temp\\.vsdbgsrc\\ae90263abd371c6b6b194cbf6d1ce316acf8a1a40bb4d7def53dc2f96388d65e\\NavigationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A213297-8073-4D1A-8C31-7145DAB46523}|task manegemt\\task manegemt.csproj|D:\\WPF-APP-Projects\\task manegement demo 2 (i solve it)\\task manegemt\\task manegemt\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A213297-8073-4D1A-8C31-7145DAB46523}|task manegemt\\task manegemt.csproj|solutionrelative:task manegemt\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Log_In_Page.xaml.cs",
+              "DocumentMoniker": "D:\\WPF-APP-Projects\\task manegement demo 2 (i solve it)\\task manegemt\\task manegemt\\Log_In_Page.xaml.cs",
+              "RelativeDocumentMoniker": "task manegemt\\Log_In_Page.xaml.cs",
+              "ToolTip": "D:\\WPF-APP-Projects\\task manegement demo 2 (i solve it)\\task manegemt\\task manegemt\\Log_In_Page.xaml.cs",
+              "RelativeToolTip": "task manegemt\\Log_In_Page.xaml.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAvwDcAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T07:53:42.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User_Management_Page.xaml.cs",
+              "DocumentMoniker": "D:\\WPF-APP-Projects\\task manegement demo 2 (i solve it)\\task manegemt\\task manegemt\\User_Management_Page.xaml.cs",
+              "RelativeDocumentMoniker": "task manegemt\\User_Management_Page.xaml.cs",
+              "ToolTip": "D:\\WPF-APP-Projects\\task manegement demo 2 (i solve it)\\task manegemt\\task manegemt\\User_Management_Page.xaml.cs",
+              "RelativeToolTip": "task manegemt\\User_Management_Page.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA+wBsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T09:51:56.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User_Management_Page.xaml",
+              "DocumentMoniker": "D:\\WPF-APP-Projects\\task manegement demo 2 (i solve it)\\task manegemt\\task manegemt\\User_Management_Page.xaml",
+              "RelativeDocumentMoniker": "task manegemt\\User_Management_Page.xaml",
+              "ToolTip": "D:\\WPF-APP-Projects\\task manegement demo 2 (i solve it)\\task manegemt\\task manegemt\\User_Management_Page.xaml",
+              "RelativeToolTip": "task manegemt\\User_Management_Page.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-01T09:04:13.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "View_Tasks_Page .xaml",
+              "DocumentMoniker": "D:\\WPF-APP-Projects\\task manegement demo 2 (i solve it)\\task manegemt\\task manegemt\\View_Tasks_Page .xaml",
+              "RelativeDocumentMoniker": "task manegemt\\View_Tasks_Page .xaml",
+              "ToolTip": "D:\\WPF-APP-Projects\\task manegement demo 2 (i solve it)\\task manegemt\\task manegemt\\View_Tasks_Page .xaml",
+              "RelativeToolTip": "task manegemt\\View_Tasks_Page .xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-01T09:03:11.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "View_Tasks_Page .xaml.cs",
+              "DocumentMoniker": "D:\\WPF-APP-Projects\\task manegement demo 2 (i solve it)\\task manegemt\\task manegemt\\View_Tasks_Page .xaml.cs",
+              "RelativeDocumentMoniker": "task manegemt\\View_Tasks_Page .xaml.cs",
+              "ToolTip": "D:\\WPF-APP-Projects\\task manegement demo 2 (i solve it)\\task manegemt\\task manegemt\\View_Tasks_Page .xaml.cs",
+              "RelativeToolTip": "task manegemt\\View_Tasks_Page .xaml.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwCYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T10:19:15.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Log_In_Page.xaml",
+              "DocumentMoniker": "D:\\WPF-APP-Projects\\task manegement demo 2 (i solve it)\\task manegemt\\task manegemt\\Log_In_Page.xaml",
+              "RelativeDocumentMoniker": "task manegemt\\Log_In_Page.xaml",
+              "ToolTip": "D:\\WPF-APP-Projects\\task manegement demo 2 (i solve it)\\task manegemt\\task manegemt\\Log_In_Page.xaml",
+              "RelativeToolTip": "task manegemt\\Log_In_Page.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-01T07:45:52.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\WPF-APP-Projects\\task manegement demo 2 (i solve it)\\task manegemt\\task manegemt\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "task manegemt\\MainWindow.xaml",
+              "ToolTip": "D:\\WPF-APP-Projects\\task manegement demo 2 (i solve it)\\task manegemt\\task manegemt\\MainWindow.xaml",
+              "RelativeToolTip": "task manegemt\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-01T06:57:50.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NavigationService.cs",
+              "DocumentMoniker": "C:\\Users\\hussien.hesham.ELSEWEDY-SCHOOL\\AppData\\Local\\Temp\\.vsdbgsrc\\ae90263abd371c6b6b194cbf6d1ce316acf8a1a40bb4d7def53dc2f96388d65e\\NavigationService.cs",
+              "ToolTip": "C:\\Users\\hussien.hesham.ELSEWEDY-SCHOOL\\AppData\\Local\\Temp\\.vsdbgsrc\\ae90263abd371c6b6b194cbf6d1ce316acf8a1a40bb4d7def53dc2f96388d65e\\NavigationService.cs [Read Only]",
+              "ViewState": "AgIAAFwEAAAAAAAAAAAgwG8EAAADAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T08:03:35.548Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\WPF-APP-Projects\\task manegement demo 2 (i solve it)\\task manegemt\\task manegemt\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "task manegemt\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\WPF-APP-Projects\\task manegement demo 2 (i solve it)\\task manegemt\\task manegemt\\MainWindow.xaml.cs",
+              "RelativeToolTip": "task manegemt\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T06:57:49.461Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
